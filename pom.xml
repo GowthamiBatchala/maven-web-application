@@ -98,14 +98,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://3.109.139.220:9980/mithuntechnologies/repository/facebook-releases/</url>
+	      <name>Whatsapp Nexus Repository</name>
+	      <url>http://13.232.166.105:8081/repository/whatsapp-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://3.109.139.220:9980/mithuntechnologies/repository/facebook-snapshot/</url>
+	      <name>whatsapp Snapshot Nexus Repository </name>
+	      <url>http://13.232.166.105:8081/repository/whatsapp-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
