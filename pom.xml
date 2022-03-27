@@ -96,14 +96,14 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>Whatsapp Nexus Repository</name>
-	      <url>http://13.232.228.251:8081/repository/Snapchat-RELEASE/</url>
+	      <name>snapchat Nexus Repository</name>
+	      <url>http://13.232.228.251:8081/repository/snapchat-Release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>whatsapp Snapshot Nexus Repository </name>
-	      <url>http://13.232.228.251:8081/repository/Snapchat-SNAPSHOT/</url>
+	      <name>snapchat Snapshot Nexus Repository </name>
+	      <url>http://13.232.228.251:8081/repository/snapchat-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
