@@ -4,7 +4,7 @@
 	
 	<groupId>com.mt</groupId>
 	<artifactId>maven-web-application</artifactId>
-	<version>3.0.0-SNAPSHOT</version>
+	<version>1.0.0-SNAPSHOT</version>
 	<packaging>war</packaging>
 	
 	<name>maven-web-application</name>
@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Whatsapp Nexus Repository</name>
-	      <url>http://65.2.6.80:8081/repository/Snapchat-RELEASE/</url>
+	      <url>http://13.232.228.251:8081/repository/Snapchat-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>whatsapp Snapshot Nexus Repository </name>
-	      <url>http://65.2.6.80:8081/repository/Snapchat-SNAPSHOT/</url>
+	      <url>http://13.232.228.251:8081/repository/Snapchat-SNAPSHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
