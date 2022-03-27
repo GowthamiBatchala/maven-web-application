@@ -97,13 +97,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>snapchat Nexus Repository</name>
-	      <url>http://13.233.117.90:8081/repository/snapchat-Release/</url>
+	      <url>http://13.233.253.192:8081/repository/snapchat-RELEASE/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>snapchat Snapshot Nexus Repository </name>
-	      <url>http://13.233.117.90:8081/repository/snapchat-SNAPSHOT/</url>
+	      <url>http://13.233.253.192:8081/repository/snapchat-SNAPCHOT/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
